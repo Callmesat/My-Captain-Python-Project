@@ -1,0 +1,4 @@
+Mylist = [12,-5,-2,-1,2,6]
+for num in Mylist:
+    if num>=0:
+        print ((num),end = " " )
